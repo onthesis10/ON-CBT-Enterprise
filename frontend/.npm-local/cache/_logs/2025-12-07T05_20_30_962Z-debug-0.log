@@ -1,0 +1,33 @@
+0 verbose cli /home/chand/ON-CBT/nodejs/bin/node /home/chand/ON-CBT/nodejs/bin/npm
+1 info using npm@10.2.4
+2 info using node@v20.11.0
+3 timing npm:load:whichnode Completed in 19ms
+4 timing config:load:defaults Completed in 9ms
+5 timing config:load:file:/home/chand/ON-CBT/nodejs/lib/node_modules/npm/npmrc Completed in 10ms
+6 timing config:load:builtin Completed in 14ms
+7 timing config:load:cli Completed in 7ms
+8 timing config:load:env Completed in 2ms
+9 timing config:load:file:/home/chand/ON-CBT/frontend/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 10ms
+11 timing config:load:file:/home/chand/.npmrc Completed in 6ms
+12 timing config:load:user Completed in 6ms
+13 timing config:load:file:/app/etc/npmrc Completed in 6ms
+14 timing config:load:global Completed in 6ms
+15 timing config:load:setEnvs Completed in 3ms
+16 timing config:load Completed in 61ms
+17 timing npm:load:configload Completed in 61ms
+18 timing config:load:flatten Completed in 8ms
+19 timing npm:load:mkdirpcache Completed in 0ms
+20 timing npm:load:mkdirplogs Completed in 1ms
+21 verbose title npm run dev
+22 verbose argv "run" "dev"
+23 timing npm:load:setTitle Completed in 2ms
+24 timing npm:load:display Completed in 2ms
+25 verbose logfile logs-max:10 dir:/home/chand/ON-CBT/frontend/.npm-local/cache/_logs/2025-12-07T05_20_30_962Z-
+26 verbose logfile /home/chand/ON-CBT/frontend/.npm-local/cache/_logs/2025-12-07T05_20_30_962Z-debug-0.log
+27 timing npm:load:logFile Completed in 42ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 182ms
+31 silly logfile start cleaning logs, removing 1 files
+32 silly logfile done cleaning log files

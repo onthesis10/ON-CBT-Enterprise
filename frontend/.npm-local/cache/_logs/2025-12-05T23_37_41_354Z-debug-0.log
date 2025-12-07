@@ -1,0 +1,53 @@
+0 verbose cli /home/chand/ON-CBT/nodejs/bin/node /home/chand/ON-CBT/nodejs/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.2.4
+2 info using node@v20.11.0
+3 timing npm:load:whichnode Completed in 3ms
+4 timing config:load:defaults Completed in 6ms
+5 timing config:load:file:/home/chand/ON-CBT/nodejs/lib/node_modules/npm/npmrc Completed in 4ms
+6 timing config:load:builtin Completed in 5ms
+7 timing config:load:cli Completed in 15ms
+8 timing config:load:env Completed in 2ms
+9 timing config:load:file:/home/chand/ON-CBT/frontend/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 32ms
+11 timing config:load:file:/home/chand/.npmrc Completed in 3ms
+12 timing config:load:user Completed in 3ms
+13 timing config:load:file:/app/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 2ms
+16 timing config:load Completed in 71ms
+17 timing npm:load:configload Completed in 72ms
+18 timing config:load:flatten Completed in 10ms
+19 timing npm:load:mkdirpcache Completed in 3ms
+20 timing npm:load:mkdirplogs Completed in 3ms
+21 verbose title npm exec shadcn@latest init
+22 verbose argv "exec" "--" "shadcn@latest" "init"
+23 timing npm:load:setTitle Completed in 5ms
+24 timing npm:load:display Completed in 7ms
+25 verbose logfile logs-max:10 dir:/home/chand/ON-CBT/frontend/.npm-local/cache/_logs/2025-12-05T23_37_41_354Z-
+26 verbose logfile /home/chand/ON-CBT/frontend/.npm-local/cache/_logs/2025-12-05T23_37_41_354Z-debug-0.log
+27 timing npm:load:logFile Completed in 37ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 1ms
+30 timing npm:load Completed in 212ms
+31 silly logfile done cleaning log files
+32 timing arborist:ctor Completed in 3ms
+33 timing arborist:ctor Completed in 1ms
+34 http fetch GET 200 https://registry.npmjs.org/shadcn 666ms (cache revalidated)
+35 timing arborist:ctor Completed in 0ms
+36 timing command:exec Completed in 1357ms
+37 verbose stack Error: ENOENT: no such file or directory, lstat '/home/chand/ON-CBT/frontend/.npm-local/lib'
+38 verbose cwd /home/chand/ON-CBT/frontend
+39 verbose Linux 6.8.0-87-generic
+40 verbose node v20.11.0
+41 verbose npm  v10.2.4
+42 error code ENOENT
+43 error syscall lstat
+44 error path /home/chand/ON-CBT/frontend/.npm-local/lib
+45 error errno -2
+46 error enoent ENOENT: no such file or directory, lstat '/home/chand/ON-CBT/frontend/.npm-local/lib'
+47 error enoent This is related to npm not being able to find a file.
+47 error enoent
+48 verbose exit -2
+49 timing npm Completed in 2337ms
+50 verbose code -2
+51 error A complete log of this run can be found in: /home/chand/ON-CBT/frontend/.npm-local/cache/_logs/2025-12-05T23_37_41_354Z-debug-0.log
